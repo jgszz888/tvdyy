@@ -1,0 +1,9 @@
+{
+    "播放数组":"module-row-one&&影片评论",
+    "播放列表":"btn-pc btn-down&&/a>",
+    "简介":"剧情：</span>&&</span>",
+    "分类url": "https://www.mayi4k.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+    "分类": "蓝光原盘&4K电影&1080P&剧集&演唱会",
+    "分类值": "266&269&284&247&246",
+    "搜索url": "https://www.mayi4k.com/vodsearch/-------------.html?wd={wd}"
+}
